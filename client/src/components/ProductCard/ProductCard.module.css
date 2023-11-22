@@ -1,0 +1,45 @@
+.CardBodu {
+    
+}
+.CardFuter {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+
+.DivPrice {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* gap: 6; */
+}
+
+.Price {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.DivBasFav {
+display: flex;
+justify-content: space-between;
+
+}
+    .FavBut {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       margin-left: 30px;
+       border: none;
+    }
+
+    
+
+.FavBut svg {
+width: 25px;
+height: 25px;
+cursor: pointer;
+
+}
+

@@ -1,0 +1,14 @@
+/*! Логотип       */
+.DivLogotip {
+    display: flex;
+    width: 250px;
+    height: 70px;
+    padding-left: 20px;
+}
+
+.Logotip {
+    width: 250px;
+    height: 70px;
+    background-image: url(../../../Public/Image/Icon/Logo.png);
+    background-size: cover;
+}

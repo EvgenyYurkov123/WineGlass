@@ -1,0 +1,12 @@
+.Search {
+    display: flex;
+    align-items: center;
+    width: 600px;
+    
+    padding-left: 50px;
+
+}
+.Search:hover {
+    color: #000;
+}
+

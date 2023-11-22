@@ -1,0 +1,15 @@
+.NameShop {
+    display: flex;
+        width: 250px;
+        height: 70px;
+}
+
+.NameShop {
+    width: 250px;
+    height: 70px;
+    background-image: url(../../../Public/Image/Icon/NameShopLogo.png);
+    background-size: cover;
+    display: flex;
+        width: 250px;
+        height: 70px;
+}

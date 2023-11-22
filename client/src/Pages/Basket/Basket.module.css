@@ -1,0 +1,38 @@
+.BasketFlag {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+.DivBasket {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+
+.BasketTable {
+    width: 100vw;
+    border-collapse: collapse;
+}
+
+.BasketTable th,
+.BasketTable td {
+    border: 1px solid #ccc;
+    padding: 8px;
+}
+
+.BasketTable th {
+    background-color: #f8f8f8;
+}
+
+.BasketFlag {
+    background-color: #f0f0f0;
+    padding: 16px;
+}
+
+.DivBasket {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 16px;
+}

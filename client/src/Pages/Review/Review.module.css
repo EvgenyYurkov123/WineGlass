@@ -1,0 +1,192 @@
+.IShopFlag {
+    display: flex;
+    
+}
+
+.IShopDivLeft {
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    height: 100vh;
+    padding-left: 35px;
+}
+
+.LinkShop {
+    width: 240px;
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.LinkShop span {
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+.LinkShop:hover {
+    color: #0033ff;
+}
+
+.LinkShop1 {
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.LinkShop1:hover {
+    color: #0033ff;
+}
+
+.LinkShop1 span {
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+.LinkShop2 {
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.LinkShop2:hover {
+    color: #0033ff;
+}
+
+.LinkShop2 span {
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+.LinkShop3 {
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.LinkShop3:hover {
+    color: #0033ff;
+}
+
+.LinkShop3 span {
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+.LinkShop4 {
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.LinkShop4:hover {
+    color: #0033ff;
+}
+
+.LinkShop4 span {
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+.IShopDivRightFlag {
+    display: flex;
+    flex-direction: column;
+    width: 1050px;
+    height: 100vh;
+    padding-left: 40px;
+    
+}
+
+.IShopDivRight1 {
+    display: flex;
+    margin-top: 25px;
+    font-size: 14px;
+}
+
+.LinkRightShop:hover {
+    color: #0033ff;
+}
+
+.mainReview {
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-between;
+}
+
+.comment {
+    display: flex;
+    flex-direction: column;
+}
+
+.Top {
+    display: flex;
+    
+}
+
+.Name {
+    display: flex;
+    align-items: end;
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+.Rating {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.Rate {
+    display: flex;
+    align-items: start;
+}
+
+.Data {
+    margin-top: 2px;
+    margin-left: 10px;
+    font-size: small;
+    color: lightgrey;
+}
+
+.DivText p {
+    margin-top: 10px;
+    margin-left: 10px;
+    /* text-align: justify; */
+    font-size: small;
+}
+
+.DivLike {
+    margin-top: 10px;
+    margin-left: 50px;
+    color:gray;
+}
+
+.DivLike:hover {
+    color: blue;
+}
+
+
+
+.Sliders {
+    height: 250px;
+}
+
+.slide {
+    height: 250px;
+    width: 320px;
+}
+
+.slides1 {
+width: 320px;
+}
+
+.comment {
+width: 320px;
+padding-right: 15px;
+}
+.comment p {
+font-size: 15px;
+}
+
+.Top {
+width: 320px;
+}

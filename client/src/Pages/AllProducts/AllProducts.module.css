@@ -1,0 +1,21 @@
+.AllProductsFlag {
+    display: flex;
+    flex-direction: column;
+}
+
+.DivAllProductsHead {
+    font-family: 'Philosopher', sans-serif;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 150px;
+}
+
+.DivAllProducts {
+    display: flex;
+    justify-content: center;
+    width: 1200px;
+        
+        margin: 0 auto;
+        padding: 0;
+}

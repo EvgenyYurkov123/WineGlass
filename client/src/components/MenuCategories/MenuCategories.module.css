@@ -1,0 +1,53 @@
+.Navbar3 {
+  background-color: #a4a2a289;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 40px;
+  left: 0;
+  right: 0;
+  width: 100%;
+
+  
+}
+
+.Navbar3:hover {
+  color: #000;
+}
+
+.Navbar3 button {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  background: 'transparent';
+  height: 25px;
+}
+
+.Navbar3 button:hover {
+  color: #000;
+}
+.MenuCategories {
+  padding-left: 20px;
+}
+.MenuButWhiskey {
+  padding: 6px 12px;
+}
+
+
+
+.whiskeyList {
+  width: 900px;
+  height: 400px;
+  color: #000;
+}
+
+.whiskeyList:hover {
+  color: #000000;
+  text-decoration: none;
+}
+
+.Social {
+  display: flex;
+  gap: 1.3rem;
+  padding: 0 1.3rem;
+}

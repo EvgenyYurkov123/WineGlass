@@ -1,0 +1,95 @@
+.HomeFlag {
+  max-height: 100%;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 40px;
+}
+
+
+.HomeDiv {
+}
+
+
+
+.Sliders {
+  height: 600px;
+}
+
+.slide {
+  width: 100vw;
+  height: 600px;
+  background-size: cover;
+}
+.slide img {
+  width: 100vw;
+  height: 600px;
+  background-size: cover;
+}
+
+
+.slide {
+  position: relative;
+  display: inline-block;
+}
+
+img {
+  max-width: 100%;
+}
+
+.slides1 {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  color: #fff;
+  padding: 10px;
+  font-size: 25px;
+}
+
+.slides2 {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  position: absolute;
+  top: 100px;
+  right: 200px;
+  color: #fff;
+  padding: 10px;
+  font-size: 40px;
+}
+.sli3 {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  position: absolute;
+  top: 200px;
+  left: 50px;
+  color: #fff;
+  padding: 10px;
+  font-size: 30px;
+}
+
+.slide4 {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  position: absolute;
+  top: 150px;
+  left: 100px;
+  color: #fff;
+  padding: 10px;
+  font-size: 30px;
+}
+.slide8 {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  position: absolute;
+  top: 150px;
+  right: 100px;
+  color: #fff;
+  padding: 10px;
+  font-size: 30px;
+}

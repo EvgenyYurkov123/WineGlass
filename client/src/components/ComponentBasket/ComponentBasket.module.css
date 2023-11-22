@@ -1,0 +1,30 @@
+.Basket {
+    display: flex;
+    justify-content: center;
+    height: 70px;
+}
+
+.BasketIcon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.BasketIcon svg {
+    width: 30px;
+    height: 30px;
+    font-size: 10px;
+    margin-right: 10px;
+}
+
+.BaskLink {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.BaskLink:hover {
+    color: #e10606;
+
+}

@@ -1,0 +1,90 @@
+.Containur {
+    display: flex;
+    width: 100vw;
+    height: 500px;
+    padding:0 20px;
+    margin-bottom: 40px;
+}
+.mainAbStore {
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 400px;
+}
+
+.AbStore {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 400px;
+    padding-right: 35px;
+}
+
+.AbStore h2 {
+    padding-left: 60px;
+    font-size: 35px;
+    font-family: 'Philosopher', sans-serif;
+    padding-bottom: 10px;
+
+}
+
+.RecDivRight {
+    display: flex;
+    flex-direction: column;
+    width: 900px;
+}
+
+.RecDivRightMenu {
+    margin-left: 200px;
+    padding-top: 30px;
+}
+
+.RecDivRightMenuLink {
+    padding: 3px;
+    font-size: 20px;
+    font-weight: 700;
+
+}
+
+.RecDivRightMenuLink:hover {
+    color: #03a6b8;
+}
+
+/* ! Slider*/
+.SliderDivFlag {
+
+    max-height: 100%;
+    padding-top: 20px;
+
+}
+
+.Sliders {
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    width: 850px;
+}
+
+.slide {
+    width: 850px;
+    height: 400px;
+    background-size: cover;
+}
+
+.slide img {
+    width: 850px;
+    height: 400px;
+    background-size: cover;
+}
+
+
+
+.customSlider button {
+    background-color: #828080;
+    width: 30px;
+}
+
+
+.customSlider button:hover {
+    color: #d01717;
+}

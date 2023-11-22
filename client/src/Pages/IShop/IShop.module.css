@@ -1,0 +1,161 @@
+.IShopFlag {
+    display: flex;
+margin-bottom: 40px;
+
+}
+
+.IShopDivLeft {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 100vh;
+    padding-left: 35px;
+}
+
+
+.LinkShop {
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.LinkShop span {
+    margin-left: 20px;
+    font-weight: 600;
+}
+.LinkShop:hover {
+    color: #0033ff;
+}
+
+.LinkShop1 {
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+}
+.LinkShop1:hover {
+    color: #0033ff;
+}
+.LinkShop1 span {
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+
+.LinkShop1 {
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.LinkShop1:hover {
+    color: #0033ff;
+}
+
+.LinkShop1 span {
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+.LinkShop2 {
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.LinkShop2:hover {
+    color: #0033ff;
+}
+
+.LinkShop2 span {
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+.LinkShop3 {
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.LinkShop3:hover {
+    color: #0033ff;
+}
+
+.LinkShop3 span {
+    margin-left: 20px;
+    font-weight: 600;
+}
+.LinkShop4 {
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.LinkShop4:hover {
+    color: #0033ff;
+}
+
+.LinkShop4 span {
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+
+.IShopDivRightFlag {
+    display: flex;
+    flex-direction: column;
+    width: 1000px;
+    height: 100vh;
+    padding-left: 80px;
+    padding-bottom: 40px;
+    
+}
+
+.IShopDivRight1 {
+    display: flex;
+    margin-top: 25px;
+    font-size: 14px;
+}
+.LinkRightShop:hover {
+    color: #0033ff;
+}
+
+
+.SliderDivFlag {
+
+    max-height: 100%;
+    padding-top: 20px;
+    margin-bottom: 40px;
+
+}
+
+.Sliders {
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    width: 900px;
+}
+
+.slide {
+    width: 900px;
+    height: 500px;
+    background-size: cover;
+}
+
+.slide img {
+    width: 900px;
+    height: 500px;
+    background-size: cover;
+}
+
+
+
+.customSlider button {
+    background-color: #828080;
+    width: 30px;
+}
+
+
+.customSlider button:hover {
+    color: #d01717;
+}

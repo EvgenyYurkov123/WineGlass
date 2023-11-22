@@ -1,0 +1,19 @@
+.ModalS {
+   
+}
+.ModalContentCentered {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.ModalHeaderCentered {
+    text-align: center;
+    
+}
+
+.ModalBodyCentered {
+    text-align: center;
+    
+}

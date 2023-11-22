@@ -1,0 +1,21 @@
+.Favorite {
+    display: flex;
+    justify-content: center;
+    width: 100px;
+    height: 70px;
+}
+
+.FavoriteIcon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.FavoriteIcon svg {
+    width: 30px;
+    height: 30px;
+}
+
+.FavoriteIcon svg:hover {
+    color: #da1616;
+}

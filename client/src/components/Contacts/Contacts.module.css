@@ -1,0 +1,48 @@
+.mainDiv {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin-top: 20px;
+    margin-left: 10px;
+    padding: 10px;
+}
+
+.navDiv {
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+}
+
+.navDiv p {
+    margin-top: 10px;
+}
+
+.divTabs {
+   display: flex;
+   flex-direction: column;
+}
+
+
+.divP {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.divP p {
+    margin-top: 10px;
+    text-align: justify;
+}
+
+
+.Map {
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.divPanel {
+    display: flex;
+    flex-direction: row;
+}

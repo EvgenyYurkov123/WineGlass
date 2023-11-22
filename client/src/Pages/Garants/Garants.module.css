@@ -1,0 +1,137 @@
+.IShopFlag {
+    display: flex;
+    height: 1400px;
+    margin-bottom: 40px;
+}
+
+.IShopDivLeft {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    padding-left: 35px;
+}
+
+.LinkShop {
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.LinkShop span {
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+.LinkShop:hover {
+    color: #0033ff;
+}
+
+.LinkShop1 {
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.LinkShop1:hover {
+    color: #0033ff;
+}
+
+.LinkShop1 span {
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+.LinkShop2 {
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.LinkShop2:hover {
+    color: #0033ff;
+}
+
+.LinkShop2 span {
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+.LinkShop3 {
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.LinkShop3:hover {
+    color: #0033ff;
+}
+
+.LinkShop3 span {
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+.LinkShop4 {
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.LinkShop4:hover {
+    color: #0033ff;
+}
+
+.LinkShop4 span {
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+.IShopDivRightFlag {
+    display: flex;
+    flex-direction: column;
+    width: 1000px;
+    padding-left: 80px;
+    padding-bottom: 40px; 
+}
+
+.IShopDivRight1 {
+    display: flex;
+    margin-top: 25px;
+    font-size: 14px;
+}
+
+.LinkRightShop:hover {
+    color: #0033ff;
+}
+
+.MainDiv {
+    display:flex;
+    flex-direction: column;
+}
+
+.GarantDiv {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+.GarantDiv span {
+    margin-top: 10px;
+}
+
+.Link:hover {
+    color:blue;
+}
+
+.Image {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  
+}
+
+.Vid {
+  
+    margin-top: 20px;
+}
