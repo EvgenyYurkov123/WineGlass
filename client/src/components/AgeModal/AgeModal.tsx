@@ -25,7 +25,7 @@ export default function AgeVerificationModal({ isOpen, onClose, onConfirm }) {
                         Да, мне есть 18 лет
                     </Button>
                     <Link to="/limitation">
-                        <Button colorScheme="blue" mr={3}>
+                        <Button className={styles.ModalHeaderLimitation} colorScheme="blue" mr={3}>
                             Нет, я младше
                         </Button>
                     </Link>
